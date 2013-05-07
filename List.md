@@ -46,9 +46,10 @@ Nothing here yet; need to figure out what to do.
 
 - Leathermans tool | http://www.amazon.com/Leatherman-831426-Wingman-Multi-Tool/dp/B005DI0XM4/ref=sr_1_2?ie=UTF8&qid=1367903701&sr=8-2&keywords=leathermans+tool
 - Edge sharpener | http://www.amazon.com/gp/product/B000O8OTNC/ref=pd_1ctyhuc__bxgy_01_03
-
+- Fire starter | http://www.amazon.com/Light-Fire-Original-Swedish-FireSteel/dp/B0013L2DKU/ref=sr_1_1?s=sporting-goods&ie=UTF8&qid=1367904247&sr=1-1&keywords=lighter
 
 ## Rope
 
 - 100 feet of Type III Nylon Paracord | http://www.amazon.com/Rothco-Commercial-Paracord-550-Pound-100-Feet/dp/B000S5ODNC/ref=sr_1_3?ie=UTF8&qid=1367903747&sr=8-3&keywords=rope
+
 
