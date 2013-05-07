@@ -8,10 +8,12 @@ On to it then.
 
 ## Water
 
-### 10 gallons of filtered water
+- 10 gallons of filtered water
 
 ## Food
 
-### Two boxes of MREs | http://www.amazon.com/Meals-Ready--Genuine-Military-Surplus/dp/B005I5ML36/ref=sr_1_1?ie=UTF8&qid=1367902203&sr=8-1&keywords=mres
+- Two boxes of MREs | http://www.amazon.com/Meals-Ready--Genuine-Military-Surplus/dp/B005I5ML36/ref=sr_1_1?ie=UTF8&qid=1367902203&sr=8-1&keywords=mres
 
 ## Shelter
+
+
