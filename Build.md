@@ -52,4 +52,7 @@ Nothing here yet; need to figure out what to do.
 
 - 100 feet of Type III Nylon Paracord | http://www.amazon.com/Rothco-Commercial-Paracord-550-Pound-100-Feet/dp/B000S5ODNC/ref=sr_1_3?ie=UTF8&qid=1367903747&sr=8-3&keywords=rope
 
+## Tape
+
+- Duct tape | http://www.amazon.com/Scotch-Strength-Duct-1-88-Inch-60-Yard/dp/B0013B1XLA/ref=sr_1_2?ie=UTF8&qid=1367910286&sr=8-2&keywords=duct+tape
 
