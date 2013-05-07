@@ -37,7 +37,7 @@ Nothing here yet; need to figure out what to do.
 
 ## Weapons
 
-- Glock 23c with 10 boxes of ammunition (legal)
+- Glock 23c with 10 boxes of ammunition
 - Cold Steel Two-handed Katana | http://www.amazon.com/Cold-Steel-Handed-Katana-Machete/dp/B0030D9RFI/ref=sr_1_8?ie=UTF8&qid=1367903545&sr=8-8&keywords=cold+steel+machete
 - Cold Steel GI Tanto Knife | http://www.amazon.com/gp/product/B004H9DO4Y/ref=s9_cxhsh_co_g200_ir01?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=left-2&pf_rd_r=0C8VZC1MCE074H0QH8JV&pf_rd_t=3201&pf_rd_p=1280661782&pf_rd_i=typ01
 
