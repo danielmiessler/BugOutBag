@@ -1,6 +1,6 @@
 # BugOutBag
 
-This project will track the creation of the ideal BugOutBag for the average cautious (but not nutty) person who understands both risk and the relatively low cost of being prepared for them. It will technically cover not just the bag itself, but basically everything that you should have prepared as part of this effort, including things like water, food, etc.
+This project will track the creation of the ideal BugOutBag for the average cautious (but not nutty) person who understands both risk and the relatively low cost of being prepared for it. It will technically cover not just the bag itself, but basically everything that you should have prepared as part of this effort, including things like water, food, etc.
 
 ## Philosophy
 
