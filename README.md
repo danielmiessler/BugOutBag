@@ -1,10 +1,10 @@
 # BugOutBag
 
-This project will track the creation of the ideal Bug Out Bag for the average cautious (but not nutty) person. It will technically cover not just the bag itself, but basically everything that you should have prepared as part of this effort, including things like water, food, etc.
+This project will track the creation of the ideal BugOutBag for the average cautious (but not nutty) person who understands both risk and the relatively low cost of being prepared for them. It will technically cover not just the bag itself, but basically everything that you should have prepared as part of this effort, including things like water, food, etc.
 
 ## Philosophy
 
-I'm going for preparedness without obsessing to the point of paranoia. The goal of my project is to be able to survive a temporary flare up of unrest as may be caused by one or more terrorist attacks, natural disasters, etc. I'm drawing that line at two weeks of survival right now, i.e. I have enough food and water to hang back off the grid until things get back to normal.
+I'm going for some level of basic preparedness without getting obsessive. The goal of my project is to be able to survive a temporary flare up of unrest as may be caused by one or more terrorist attacks, natural disasters, etc. I'm drawing that line at two weeks of survival right now, i.e. I have enough food and water to hang back off the grid until things get back to normal. Nothing ridiculous.
 
 I am *not* preparing for a major catastrophe, as 1) it's too depressing to think about, and 2) it's not really possible to be prepared for that. I think the best thing to do is to go to a safe place where food and water can be procured over long periods of time when the smaller issue happens. Then, if it turns into a major issue you have the ability to wait it out. But if things go completely sideways, and you can't even get to your safe spot, well, then it's just bad news and there's not much use in preparing for that level of drama.
 
