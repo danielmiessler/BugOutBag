@@ -6,6 +6,10 @@ My basic rule is to have a two week buffer in the case of something minor going 
 
 On to it then.
 
+## Bag
+
+- A bag
+
 ## Water
 
 - 10 gallons of filtered water in plastic jugs
