@@ -17,7 +17,7 @@ On to it then.
 ## Shelter
 
 - A basic 4-person tent | http://www.amazon.com/Coleman-Sundome-4-Person-Tent-Green/dp/B004J2GUOU/ref=sr_1_1?ie=UTF8&qid=1367902760&sr=8-1&keywords=tent
-- 2 sleeping bags | http://www.amazon.com/Suisse-Sport-Adventurer-Ultra-Compactable-Sleeping/dp/B001TR7QZA/ref=sr_1_1?ie=UTF8&qid=1367903363&sr=8-1&keywords=sleeping+bag 
+- 2 sleeping bags | http://www.amazon.com/Suisse-Sport-Adventurer-Ultra-Compactable-Sleeping/dp/B001TR7QZA/ref=sr_1_1?ie=UTF8&qid=1367903363&sr=8-1&keywords=sleeping+bag
 
 ## Hygeine
 
@@ -47,6 +47,7 @@ Nothing here yet; need to figure out what to do.
 - Leathermans tool | http://www.amazon.com/Leatherman-831426-Wingman-Multi-Tool/dp/B005DI0XM4/ref=sr_1_2?ie=UTF8&qid=1367903701&sr=8-2&keywords=leathermans+tool
 - Edge sharpener | http://www.amazon.com/gp/product/B000O8OTNC/ref=pd_1ctyhuc__bxgy_01_03
 - Fire starter | http://www.amazon.com/Light-Fire-Original-Swedish-FireSteel/dp/B0013L2DKU/ref=sr_1_1?s=sporting-goods&ie=UTF8&qid=1367904247&sr=1-1&keywords=lighter
+- P-38/P-51 can opener | https://www.amazon.com/P-38-Can-Opener-P-51/dp/B0078WMSZ8
 
 ## Rope
 
@@ -55,4 +56,3 @@ Nothing here yet; need to figure out what to do.
 ## Tape
 
 - Duct tape | http://www.amazon.com/Scotch-Strength-Duct-1-88-Inch-60-Yard/dp/B0013B1XLA/ref=sr_1_2?ie=UTF8&qid=1367910286&sr=8-2&keywords=duct+tape
-
